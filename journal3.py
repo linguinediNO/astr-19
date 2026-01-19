@@ -8,5 +8,5 @@ def main():
 	if result > 27:
 		print("YAY!")
 
-if __name__=="__main":
+if __name__=="__main__":
 	main()
